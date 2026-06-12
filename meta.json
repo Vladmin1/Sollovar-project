@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+
+    {
+        "id": "1.0-2.1",
+        "releasedAt": 1716373560000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/space-gear/version/FisSquad-1.0-2.1"
+            }
+        }
+    },
+    {
+        "id": "1.1",
+        "releasedAt": 1716373560000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/space-gear/version/FisSquad-1.1"
+            }
+        }
+    }
+    ]
+}
